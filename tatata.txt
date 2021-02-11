@@ -4,3 +4,4 @@ Ti Korona bro
 lollipap
 new
 delete
+q
